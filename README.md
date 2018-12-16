@@ -13,4 +13,4 @@ The code is separated into 5 sections:
 
 The tidy data set output is "finalData.txt"
 
-The [codebook.Rmd](Codebook.Rmd) lists all variables and classes in the "finalData.txt".
+The [codebook.Rmd](codebook.Rmd) lists all variables and classes in the "finalData.txt".
