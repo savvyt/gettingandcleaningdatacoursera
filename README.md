@@ -3,7 +3,7 @@ Coursera: Getting and Cleaning Data Course Project
 
 This is a submission for Coursera: Getting and Cleaning Data Course Project by Tania Savitri.
 
-By running the R script run_analysis.R file it will automatically install "data.table" "dplyr" and "knitr" packages and load it into your library. The script will also automatically download the data from [here] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzip it for you. 
+By running the R script run_analysis.R file it will automatically install "data.table" "dplyr" and "knitr" packages and load it into your library. The script will also automatically download the data from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzip it for you. 
 The code is separated into 5 sections:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
